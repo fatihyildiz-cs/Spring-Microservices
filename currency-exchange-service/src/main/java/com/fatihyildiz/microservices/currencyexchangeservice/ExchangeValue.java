@@ -10,7 +10,6 @@ public class ExchangeValue {
 
     @Id
     private Long id;
-
     @Column(name = "currency_from")
     private String from;
 
